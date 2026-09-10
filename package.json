@@ -1,0 +1,1 @@
+{"name":"battery-emergency-inspection","version":"0.1.0","private":true,"type":"module","scripts":{"test":"node --test","start":"node src/server.js"},"engines":{"node":">=20"},"description":"电芯安全紧急检查授权服务"}
